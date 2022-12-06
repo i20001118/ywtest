@@ -13,6 +13,7 @@ env:
   HOSTINGPLANNAME: "ywtest-plan"
   APPINSIGHTLOCATION: "East Asia"
   SKU: "B1 Basic"
+  
 
 jobs:
   Build:
